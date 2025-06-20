@@ -17,6 +17,6 @@ Hi, I'm Sanjay Gowda — a Computer Science student passionate about building re
 
 ### 🐍 Contribution Snake Animation
 
-![Contribution snake](https://raw.githubusercontent.com/sanjayy-gowdaa/sanjayy-gowdaa/output/dist/github-contribution-grid-snake.gif)
+![Contribution snake](https://raw.githubusercontent.com/sanjayy-gowdaa/sanjayy-gowdaa/output/github-contribution-grid-snake.gif)
 
 
