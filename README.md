@@ -15,4 +15,8 @@ Hi, I'm Sanjay Gowda — a Computer Science student passionate about building re
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sanjayy-gowdaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🐍 Contribution Snake Animation
+
+![Contribution snake](https://raw.githubusercontent.com/sanjayy-gowdaa/sanjayy-gowdaa/output/dist/github-contribution-grid-snake.gif)
+
+
